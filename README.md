@@ -4,7 +4,6 @@ This repository documents my coursework in Statistical Learning for Data Science
 
 The course focuses on choosing appropriate models, assessing how well they predict new observations, and balancing prediction accuracy with interpretability.
 
-
 ## My perspective
 
 As an Operations Planning Engineer, I am interested in how statistical learning can support operational decisions. Through this coursework, I aim to strengthen my ability to evaluate predictions, recognize uncertainty, and judge whether a model performs well beyond the data used to fit it.
