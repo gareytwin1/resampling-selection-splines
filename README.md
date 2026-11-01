@@ -1,2 +1,3 @@
-# resampling-selection-splines
-R coursework for Statistical Learning for Data Science, covering resampling, model selection, shrinkage methods, regression, splines, and generalized additive models, with an emphasis on prediction accuracy and interpretation.
+# Resampling-Selection-Splines
+
+This repository documents my coursework in Statistical Learning for Data Science as part of the MS in Data Science program at the University of Colorado Boulder. I use R to explore statistical learning methods, evaluate fitted models, and communicate results.
